@@ -1,0 +1,14 @@
+Flask
+spacy
+Werkzeug
+Jinja2
+itsdangerous
+click
+blinker
+Flask-WTF
+MarkupSafe
+google
+google-cloud-vision
+pytesseract
+opencv-python-headless  
+python-docx
